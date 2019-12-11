@@ -1,0 +1,13 @@
+{
+    "name": "yoast/browserlist",
+    "description": "WordPress plugin to display supported browsers using a shortcode, given a browserlist config URL.",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Team Yoast",
+            "email": "support@yoast.com"
+        }
+    ],
+    "require": {}
+}
